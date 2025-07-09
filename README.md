@@ -1,4 +1,4 @@
-! [Dashboard Banner](banner.png)
+! [Dashboard Banner](banner.png.jpg)
 
 # Sales---Performance---dashboard (Power BI project)
 This Power BI dashboard was built to help a small business uncover:
