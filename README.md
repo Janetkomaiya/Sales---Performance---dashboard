@@ -1,4 +1,4 @@
-[Dashboard Banner](./path/to/banner(3).png)
+[Dashboard Banner](banner(3).png)
 
 # Sales---Performance---dashboard (Power BI project)
 This Power BI dashboard was built to help a small business uncover:
