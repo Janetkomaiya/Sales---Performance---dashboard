@@ -39,6 +39,31 @@ I analyzed their customer, product, and order data and created a two-page dashbo
 
 ---
 
+## 📈 Business Strategy Recommendations
+
+Based on the insights from this dashboard, here are key recommendations to grow the vintage shirt business:
+
+1. Double down on high-performing shirt variations
+The data shows that processed vintage shirts outperform others in sales volume. Prioritize restocking and promoting these variants to maximize revenue.
+
+
+2. Optimize marketing efforts for returning customers
+Returning customers account for a strong portion of repeat purchases. Create loyalty campaigns or early-access drops to retain and reward them.
+
+
+3. Focus promotions around peak shopping hours
+Sales peak around specific hours of the day. Use this insight to time flash sales or social media posts for better conversion.
+
+
+4. Reduce cancellations by improving order process
+A noticeable percentage of orders were cancelled. Streamlining order confirmation and delivery tracking could help reduce this.
+
+
+5. Leverage top discovery channels
+Channels like Instagram and WhatsApp are driving most of the sales. Prioritize content and advertising on these platforms to reach more targeted buyers
+
+----
+
 🛠 Tools Used
 
 - **Power BI**
