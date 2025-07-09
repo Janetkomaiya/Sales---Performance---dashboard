@@ -49,7 +49,7 @@ I analyzed their customer, product, and order data and created a two-page dashbo
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard - Page 1](dashboard_page1.png)
+![Sales Dashboard - Page 1](https://github.com/Janetkomaiya/Sales---Performance---dashboard/blob/main/Dashboard_page%201.%20png.png)
 
 ![Sales Dashboard - Page 2](dashboard_page2.png)
 
